@@ -64,7 +64,7 @@ Full-stack MERN application · `JavaScript` `React` `Node.js` `MongoDB`
 
 **400+ problems solved** — Arrays, Strings, Two Pointers, Sliding Window, Binary Search, Stack, Greedy
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Lokesh__Janga-orange?style=flat&logo=leetcode)](https://leetcode.com/Lokesh_Janga)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Lokesh__Janga-orange?style=flat&logo=leetcode)](https://leetcode.com/u/Lokesh_Janga)
 
 ---
 
